@@ -10,6 +10,6 @@ Este é um jogo de memória simples implementado em JavaScript. O objetivo é en
    git clone https://seu-repositorio.git
 
 2. **Tecnologias utilizadas**
-HTML: Estrutura da página.
-CSS: Estilização da página.
-JavaScript: Lógica do jogo.
+   HTML: Estrutura da página.
+   CSS: Estilização da página.
+   JavaScript: Lógica do jogo.
