@@ -9,7 +9,8 @@ Este é um jogo de memória simples implementado em JavaScript. O objetivo é en
    ```bash
    git clone https://seu-repositorio.git
 
-2. **Tecnologias utilizadas**
+2. **Tecnologias utilizadas:**
+
    HTML: Estrutura da página.
 
    CSS: Estilização da página.
